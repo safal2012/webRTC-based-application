@@ -1,1 +1,1 @@
-# webRTC-based-application
+# webRTC based video conferencing application
